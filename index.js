@@ -1,1 +1,5 @@
-console.log('este es el feature 1')
+function sumar(n1, n2) {
+  let suma = n1 - n2;
+  return suma;
+}
+module.exports = sumar
