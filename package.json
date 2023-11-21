@@ -1,0 +1,23 @@
+{
+  "name": "practica-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvyscruz/practica-merge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvyscruz/practica-merge/issues"
+  },
+  "homepage": "https://github.com/elvyscruz/practica-merge#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
